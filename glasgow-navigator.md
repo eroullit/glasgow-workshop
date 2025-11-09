@@ -1,0 +1,15 @@
+# Glasgow navigator step by step guide 
+
+##  Task 1 – Working with Issues via MCP
+
+**Goal:** 🏗️ Setup a basic Python-based app based on Flask
+
+<details>
+<summary>🔹 <b>1️⃣ Just the basic an Hello World Flask application</b></summary>
+
+```text
+Task: Write Python-based app based on Flask app displaying "Hello World".
+Condition: Simplest setup. No virtual environment. Use pip
+Output: On GET / request, the "Hello World" message is displayed in the user's browser tab.
+```
+</details>
