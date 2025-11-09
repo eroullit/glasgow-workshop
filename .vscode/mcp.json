@@ -1,9 +1,18 @@
 {
-    "inputs": [],
-    "servers": {
-        "github-remote": {
-            "type": "http",
-            "url": "https://api.githubcopilot.com/mcp/",
-        },
-    }
+	"servers": {
+		"github-remote": {
+			"type": "http",
+			"url": "https://api.githubcopilot.com/mcp/"
+		},
+		"microsoft/playwright-mcp": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"@playwright/mcp@latest"
+			],
+			"gallery": "https://api.mcp.github.com",
+			"version": "0.0.1-seed"
+		}
+	},
+	"inputs": []
 }
