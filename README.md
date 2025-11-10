@@ -43,7 +43,7 @@ You’ll stay inside your own directory or repository, freely experimenting and 
 > 💡 No need for separate installs — Copilot Chat and Edits ship with most IDE integrations.  
 > Just make sure both completions and chat panes are visible.
 
-⚠️ In case network restrictions are place, [GitHub Codespaces](https://github.com/codespaces) can be used to create an ad-hoc development environment and experiment there.
+⚠️ In case network restrictions are in place, [GitHub Codespaces](https://github.com/codespaces) can be used to create an ad-hoc development environment and experiment there.
 
 </details>
 
