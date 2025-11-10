@@ -17,7 +17,7 @@ Output: On GET / request, the "Hello World" message is displayed in the user's b
 ## Task 2 - Display a map of Glasgow
 
 <details>
-<summary>🔹 <b>1️⃣ Just the basic an Hello World Flask application</b></summary>
+<summary>🔹 <b>2️⃣  Just the basic an Hello World Flask application</b></summary>
 
 ```text
 Task: Update the Flask app to display the map of Glasgow
