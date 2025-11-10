@@ -2,7 +2,7 @@
 
 ##  Task 1 – Setting things up
 
-**Goal:** 🏗️ Setup a basic Python-based app based on Flask
+**Goal:** 🏗️ Setup a basic Python-based app based on Flask, Folium and various data points ✨
 
 <details>
 <summary>🔹 <b>1️⃣ Just the basic an Hello World Flask application</b></summary>
