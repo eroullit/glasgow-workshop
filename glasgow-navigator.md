@@ -22,7 +22,7 @@ Output: On GET / request, the "Hello World" message is displayed in the user's b
 ```text
 Task: Update the Flask app to display the map of Glasgow
 Input: GET / request from user
-Output: A map of Glasgow is displayed in a browser tab.Verify: Check with playwright
+Output: A map of Glasgow is displayed in a browser tab.
 ```
 
 </details>
