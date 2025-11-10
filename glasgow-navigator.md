@@ -1,6 +1,6 @@
 # Glasgow navigator step by step guide 
 
-##  Task 1 – Working with Issues via MCP
+##  Task 1 – Setting things up
 
 **Goal:** 🏗️ Setup a basic Python-based app based on Flask
 
